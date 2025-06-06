@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Layout>
+  <Window Guid="1ecf9625-8a88-4f3f-b6a6-46dbc37986ac" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="200" />
+  <Window Guid="5aeea28e-4e73-4a2e-8612-73d6aebc08da" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="250" />
+  <Window Guid="edf1e578-5744-445b-a477-e1502c8f172e" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="250" />
+  <Window Guid="f21c565c-ded4-4609-8754-a5c0481113e2" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="250" />
+  <Window Guid="487fb39d-ce59-4c66-88c5-189db8cf558c" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="250" />
+  <Window Guid="cb3d55ff-1e57-4860-90fd-a7e2bcc053bc" FloatingSize="250, 400" FloatingLocation="-1, -1" Docked="1" PopupSize="0" DockedSize="250" />
+  <Container Dock="2" ContentSize="100">
+    <SplitLayoutSystem WorkingSize="250, 400" SplitMode="0">
+      <ControlLayoutSystem WorkingSize="506, 100" Collapsed="0" SelectedControl="1ecf9625-8a88-4f3f-b6a6-46dbc37986ac">
+        <Controls>
+          <Control Guid="1ecf9625-8a88-4f3f-b6a6-46dbc37986ac" />
+        </Controls>
+      </ControlLayoutSystem>
+    </SplitLayoutSystem>
+  </Container>
+  <Container Dock="4" ContentSize="250">
+    <SplitLayoutSystem WorkingSize="250, 400" SplitMode="1">
+      <ControlLayoutSystem WorkingSize="250, 1055" Collapsed="0" SelectedControl="487fb39d-ce59-4c66-88c5-189db8cf558c">
+        <Controls>
+          <Control Guid="edf1e578-5744-445b-a477-e1502c8f172e" />
+          <Control Guid="487fb39d-ce59-4c66-88c5-189db8cf558c" />
+        </Controls>
+      </ControlLayoutSystem>
+    </SplitLayoutSystem>
+  </Container>
+  <Container Dock="3" ContentSize="250">
+    <SplitLayoutSystem WorkingSize="250, 400" SplitMode="1">
+      <ControlLayoutSystem WorkingSize="250, 1055" Collapsed="0" SelectedControl="cb3d55ff-1e57-4860-90fd-a7e2bcc053bc">
+        <Controls>
+          <Control Guid="f21c565c-ded4-4609-8754-a5c0481113e2" />
+          <Control Guid="5aeea28e-4e73-4a2e-8612-73d6aebc08da" />
+          <Control Guid="cb3d55ff-1e57-4860-90fd-a7e2bcc053bc" />
+        </Controls>
+      </ControlLayoutSystem>
+    </SplitLayoutSystem>
+  </Container>
+</Layout>

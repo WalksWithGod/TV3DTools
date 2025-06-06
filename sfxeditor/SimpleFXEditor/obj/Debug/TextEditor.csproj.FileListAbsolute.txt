@@ -1,0 +1,9 @@
+F:\stuff\TextEditor\Src\TextEditor\obj\Debug\ResolveAssemblyReference.cache
+F:\stuff\TextEditor\Src\TextEditor\obj\Debug\TextEditor.FindAndReplaceForm.resources
+F:\stuff\TextEditor\Src\TextEditor\obj\Debug\TextEditor.TextEditorForm.resources
+F:\stuff\TextEditor\Src\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+F:\stuff\TextEditor\Src\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+F:\stuff\TextEditor\bin\Debug\TextEditor.exe
+F:\stuff\TextEditor\bin\Debug\TextEditor.pdb
+F:\stuff\TextEditor\Src\TextEditor\obj\Debug\TextEditor.exe
+F:\stuff\TextEditor\Src\TextEditor\obj\Debug\TextEditor.pdb

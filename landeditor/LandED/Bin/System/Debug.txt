@@ -1,0 +1,6 @@
+12-08-2011 14:01:19 | Continuing debug file on E:\dev\c#\tv3dtools\landeditor\LandED\bin\Debug\..\System\Debug.txt
+12-08-2011 14:01:19 | TEXTURE MANAGER : Format of alpha texture changed to 21.
+12-08-2011 14:01:19 | TEXTURE MANAGER : Format of non-alpha texture changed to 22.
+12-08-2011 14:01:19 | TEXTURE MANAGER : Loading of 'E:\dev\c#\tv3dtools\landeditor\LandED\bin\Debug\..\Media\SkySphere\Blue_Horizon.bmp' successful '' on index 3 
+12-08-2011 14:01:23 | START UNLOAD
+12-08-2011 14:01:23 | RESOURCE MANAGER : Engine successfully unloaded

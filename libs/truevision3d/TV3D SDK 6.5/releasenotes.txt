@@ -1,0 +1,8 @@
+TV3D SDK 6.5 Prerelease notes
+-----------------------------
+
+This is the first build of the setup for 6.5, I have left out everything except for the SDK itself, to make the EXE smaller -- since we will be testing this more and more over the coming weeks.  Tools, Plugins, etc are still available via the Beta webpage.
+
+For more information on the latest updates, please see the Beta Progress post on our forums:
+
+http://www.truevision3d.com/phpBB2/viewtopic.php?t=5988

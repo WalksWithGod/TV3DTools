@@ -1,0 +1,22 @@
+<options>
+  <eTextureFilter value="3" />
+  <eDepthBuffer value="1" />
+  <eBackgroundColor.r value="0,15" />
+  <eBackgroundColor.g value="0,15" />
+  <eBackgroundColor.b value="0,15" />
+  <eRenderMode value="3" />
+  <fFOV value="45" />
+  <fFarPlane value="10000" />
+  <fMipMapPrecision value="0" />
+  <bEnableSpecular value="True" />
+  <bGlow value="False" />
+  <fFocalRange value="120" />
+  <fFocalPlane value="54" />
+  <fDOFBlurFactor value="3" />
+  <bDOF value="False" />
+  <eTintGlowRED value="1" />
+  <eTintGlowGREEN value="1" />
+  <eTintGlowBLUE value="1" />
+  <fGlowIntensity value="1" />
+  <fGlowOffsetScale value="1" />
+</options>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Layout>
+  <Window Guid="f21c565c-ded4-4609-8754-a5c0481113e2" FloatingSize="250; 400" FloatingLocation="-1; -1" DockLocation="Left" />
+  <Window Guid="cb3d55ff-1e57-4860-90fd-a7e2bcc053bc" FloatingSize="250; 400" FloatingLocation="-1; -1" DockLocation="Left" />
+  <Window Guid="edf1e578-5744-445b-a477-e1502c8f172e" FloatingSize="250; 400" FloatingLocation="-1; -1" DockLocation="Right" />
+  <Window Guid="487fb39d-ce59-4c66-88c5-189db8cf558c" FloatingSize="250; 400" FloatingLocation="-1; -1" DockLocation="Right" />
+  <Container Guid="8a38ed2a-10ac-4eee-8daf-942ea30d084b" Size="254; 1090">
+    <SplitLayoutSystem WorkingSize="250; 400" SplitMode="Horizontal" LayoutSystems="2">
+      <ControlLayoutSystem WorkingSize="250; 418" Collapsed="False" Controls="1" SelectedControl="f21c565c-ded4-4609-8754-a5c0481113e2">
+        <Controls>
+          <Control Guid="f21c565c-ded4-4609-8754-a5c0481113e2" />
+        </Controls>
+      </ControlLayoutSystem>
+      <ControlLayoutSystem WorkingSize="250; 667" Collapsed="False" Controls="1" SelectedControl="cb3d55ff-1e57-4860-90fd-a7e2bcc053bc">
+        <Controls>
+          <Control Guid="cb3d55ff-1e57-4860-90fd-a7e2bcc053bc" />
+        </Controls>
+      </ControlLayoutSystem>
+    </SplitLayoutSystem>
+  </Container>
+  <Container Guid="1c09295a-4f6e-4207-9994-5906cbfdb302" Size="254; 1090">
+    <SplitLayoutSystem WorkingSize="250; 400" SplitMode="Horizontal" LayoutSystems="1">
+      <ControlLayoutSystem WorkingSize="250; 1090" Collapsed="False" Controls="2" SelectedControl="edf1e578-5744-445b-a477-e1502c8f172e">
+        <Controls>
+          <Control Guid="edf1e578-5744-445b-a477-e1502c8f172e" />
+          <Control Guid="487fb39d-ce59-4c66-88c5-189db8cf558c" />
+        </Controls>
+      </ControlLayoutSystem>
+    </SplitLayoutSystem>
+  </Container>
+</Layout>

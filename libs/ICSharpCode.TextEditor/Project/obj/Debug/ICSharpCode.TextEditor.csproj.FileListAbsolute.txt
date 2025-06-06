@@ -1,0 +1,5 @@
+E:\dev\c#\bin\ICSharpCode.TextEditor.dll
+E:\dev\c#\bin\ICSharpCode.TextEditor.pdb
+E:\dev\c#\tvtools\libs\ICSharpCode.TextEditor\Project\obj\Debug\ResolveAssemblyReference.cache
+E:\dev\c#\tvtools\libs\ICSharpCode.TextEditor\Project\obj\Debug\ICSharpCode.TextEditor.dll
+E:\dev\c#\tvtools\libs\ICSharpCode.TextEditor\Project\obj\Debug\ICSharpCode.TextEditor.pdb

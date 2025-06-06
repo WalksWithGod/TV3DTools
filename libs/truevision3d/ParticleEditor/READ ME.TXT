@@ -1,0 +1,8 @@
+This version of particleeditor is broken.  
+
+
+Fortunately i decompiled it years ago and made a new solution for it that works.
+
+
+D:\dev\c#\tv3dtools\particleeditor
+

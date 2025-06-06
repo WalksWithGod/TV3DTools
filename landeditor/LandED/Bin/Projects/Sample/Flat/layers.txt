@@ -1,0 +1,8 @@
+Grass
+Flat_Grass_Grass.bmp
+Flat_Grass_Alpha.bmp
+64
+Pool
+Flat_Pool_Dirt.bmp
+Flat_Pool_Pool.bmp
+64

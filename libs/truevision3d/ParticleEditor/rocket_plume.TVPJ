@@ -1,0 +1,14 @@
+<particle-system>
+  <emitter type="billboard" max-particles="500" id="0" size="32" location="0/0/0" direction="0/1/0" directional="True" randomdirectionfactor="0/0/0" power="40" lifetime="3" shape="0" texture="particles\plume3.dds" color="1,1,1,1" speed="10" usegravity="False" gravity="0/-0.5/0" alphachange="1" alphablending="1" alphatest="True" alpharef="0" alphadepthwrite="False" boxsize="0/0/0" sphereradius="0" looping="True">
+    <particle-keyframes>
+      <keyframe id="0" key="0" size="32/32/32" color="1,1,1,0.5" />
+      <keyframe id="1" key="3" size="0.1/0.1/0.1" color="0,0,1,0.5" />
+    </particle-keyframes>
+  </emitter>
+  <emitter type="billboard" max-particles="64" id="1" size="32" location="0/0/0" direction="0/1/0" directional="True" randomdirectionfactor="0/0/0" power="30" lifetime="2" shape="0" texture="particles\circle_sft2.dds" color="0,0,0,1" speed="100" usegravity="True" gravity="0/-0.5/0" alphachange="1" alphablending="1" alphatest="True" alpharef="0" alphadepthwrite="False" boxsize="0/0/0" sphereradius="0" looping="True">
+    <particle-keyframes>
+      <keyframe id="0" />
+      <keyframe id="1" />
+    </particle-keyframes>
+  </emitter>
+</particle-system>

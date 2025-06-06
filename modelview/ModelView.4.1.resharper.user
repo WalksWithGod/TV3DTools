@@ -1,0 +1,158 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmNormalmapGen.resx" caret="10265" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmPRTGen.resx" caret="0" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMorphTargets.resx" caret="8135" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMorphSlider.resx" caret="0" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.resx" caret="0" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmAnimationRanges.resx" caret="0" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmAbout.resx" caret="0" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mOptions.cs" caret="1113" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:modLocalize.cs" caret="0" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mMain.cs" caret="2868" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mGlobalProperties.cs" caret="1264" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:cSceneProperties.cs" caret="913" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:cMorphTargetProperties.cs" caret="542" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmAbout.cs" caret="2706" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:cLightProperties.cs" caret="122" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:cAnimationRangeProperties.cs" caret="0" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:cActorProperties.cs" caret="16006" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:cMeshProperties.cs" caret="2000" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmPRTGen.cs" caret="12857" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmNormalmapGen.cs" caret="16840" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMorphTargets.cs" caret="946" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMorphSlider.cs" caret="4952" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmAnimationRanges.cs" caret="3976" scrollPosition="0|0" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mComponents.cs" caret="7469" scrollPosition="0|44" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="107345" scrollPosition="0|2241" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="36911" scrollPosition="0|733" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="86514" scrollPosition="59|2132" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="32530" scrollPosition="0|772" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="32307" scrollPosition="0|772" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="16053" scrollPosition="0|388" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="33518" scrollPosition="0|790" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="34031" scrollPosition="0|790" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="34672" scrollPosition="0|805" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="35111" scrollPosition="0|823" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="35556" scrollPosition="0|823" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="36016" scrollPosition="0|838" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="36301" scrollPosition="0|853" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="37173" scrollPosition="0|868" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="33260" scrollPosition="0|790" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="36577" scrollPosition="0|865" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="44288" scrollPosition="0|994" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="56377" scrollPosition="0|1415" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="58862" scrollPosition="0|1447" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="68531" scrollPosition="0|1548" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="9179" scrollPosition="0|230" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="9881" scrollPosition="0|230" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="106547" scrollPosition="0|2237" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:frmMain.cs" caret="107345" scrollPosition="0|2241" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="37318" scrollPosition="0|739" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="37536" scrollPosition="0|739" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="34868" scrollPosition="0|670" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="36586" scrollPosition="0|720" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="38316" scrollPosition="44|778" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="38534" scrollPosition="44|778" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="37835" scrollPosition="0|771" />
+      <File id="90A20F2F-48B5-467B-B02D-92DC9A5C83A1/f:mTV3D.cs" caret="51893" scrollPosition="0|1023" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="CONST_TV_CULLING" priority="1" />
+      <Item value="CONST_TV_COLORKEY" priority="1" />
+      <Item value="CONST_TV_LICENSEMODE" priority="0" />
+      <Item value="MsgBoxStyle" priority="0" />
+      <Item value="CONST_TV_RENDERMODE" priority="0" />
+      <Item value="CONST_TV_DEPTHBUFFER" priority="0" />
+      <Item value="CONST_TV_TEXTUREFILTER" priority="1" />
+      <Item value="CONST_TV_SHADERMODEL" priority="0" />
+      <Item value="CONST_TV_ANGLE" priority="0" />
+      <Item value="Exception" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_CULLING">
+      <Item value="TV_BACK_CULL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_COLORKEY">
+      <Item value="TV_COLORKEY_NO" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualBasic.MsgBoxStyle">
+      <Item value="OkOnly" priority="2" />
+      <Item value="Exclamation" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_LIGHTTYPE">
+      <Item value="TV_LIGHT_DIRECTIONAL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_RENDERMODE">
+      <Item value="TV_SOLID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_DEPTHBUFFER">
+      <Item value="TV_ZBUFFER" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_TEXTUREFILTER">
+      <Item value="TV_FILTER_TRILINEAR" priority="0" />
+      <Item value="TV_FILTER_BILINEAR" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_SHADERMODEL">
+      <Item value="TV_SHADERMODEL_BEST" priority="1" />
+      <Item value="TV_SHADERMODEL_NOSHADER" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_ANGLE">
+      <Item value="TV_ANGLE_DEGREE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_TEXTUREMODE">
+      <Item value="TV_TEXTUREMODE_16BITS" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ModelView.mTV3D+CONST_TV_FORMAT">
+      <Item value="TV_FORMAT_DX" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_OBJECT_TYPE">
+      <Item value="TV_OBJECT_MESH" priority="1" />
+      <Item value="TV_OBJECT_ALL" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_LIGHTINGMODE">
+      <Item value="TV_LIGHTING_MANAGED" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_BLENDINGMODE">
+      <Item value="TV_BLEND_NO" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
+      <Item value="Left" priority="0" />
+      <Item value="Bottom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_IMAGEFORMAT">
+      <Item value="TV_IMAGE_JPG" priority="0" />
+      <Item value="TV_IMAGE_BMP" priority="0" />
+      <Item value="TV_IMAGE_DDS" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Orientation">
+      <Item value="Horizontal" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

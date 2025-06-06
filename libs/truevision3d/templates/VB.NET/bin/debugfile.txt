@@ -1,0 +1,21 @@
+06-30-2005 10:48:04 | --------------------------------------------
+06-30-2005 10:48:04 | Truevision3D Debug/Log File
+06-30-2005 10:48:04 | --------------------------------------------
+06-30-2005 10:48:04 | Engine Version : 6.5
+06-30-2005 10:48:04 | ENGINE INFO : DLL Compilation time Jun 17 2005 00:11:43
+06-30-2005 10:48:04 | DEVICE INIT : Initialize Depth
+06-30-2005 10:48:04 | DEVICE INIT : Initializing the device in fullscreen mode, with a render surface size of 800x600, format 22, depthbuffer 75
+06-30-2005 10:48:11 | DEVICE INIT : Abstract Rendering Device still existing... Deleting
+06-30-2005 10:48:11 | VIEWPORT MANAGER : Main viewport initialization
+06-30-2005 10:48:11 | VIEWPORT MANAGER ERROR : Viewport_Initialize : The first viewport created should have the index 0, but the index is 1, so something has been unreleased in the last session, check it out !
+06-30-2005 10:48:11 | DEVICE INIT : Initialization successful !
+06-30-2005 10:48:11 | DEVICE INFO :  3D Card : NVIDIA GeForce FX 5200   | Card ID : 802 | Driver ID : 662053
+06-30-2005 10:48:11 | DEVICE INFO : Available texture memory : 174 MB
+06-30-2005 10:48:11 | DEVICE INFO : Vertex Shaders 2.0 supported in hardware.
+06-30-2005 10:48:11 | Debug info : vs fffe0200  ps ffff0200 
+06-30-2005 10:48:11 | DEVICE INFO : Pixel Shaders 2.0 supported in hardware.
+06-30-2005 10:48:11 | DEVICE INFO : Driver used is a DirectX9-level driver 'nv4_disp.dll'. Excellent
+06-30-2005 10:48:11 | DEVICE INFO : Card Type GFFX/ATIRadeon9700-X850 Level card, second generation of programmable card
+06-30-2005 10:48:17 | START UNLOAD
+06-30-2005 10:48:17 | RESSOURCE MANAGER : Engine successfully unloaded
+06-30-2005 10:48:17 | NO PROBLEM

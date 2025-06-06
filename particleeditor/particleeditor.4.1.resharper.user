@@ -1,0 +1,128 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@Microsoft.VisualBasic.MsgBoxStyle">
+      <Item value="Information" priority="0" />
+      <Item value="YesNo" priority="1" />
+      <Item value="OkOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="Exception" priority="1" />
+      <Item value="return" priority="4" />
+      <Item value="null" priority="3" />
+      <Item value="new" priority="0" />
+      <Item value="TV_3DQUATERNION" priority="0" />
+      <Item value="Orientation" priority="1" />
+      <Item value="MsgBoxStyle" priority="2" />
+      <Item value="MsgBoxResult" priority="0" />
+      <Item value="CONST_TV_EMITTERTYPE" priority="0" />
+      <Item value="node2" priority="2" />
+      <Item value="node4" priority="1" />
+      <Item value="node3" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MTV3D65.CONST_TV_EMITTERTYPE">
+      <Item value="TV_EMITTER_POINTSPRITE" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
+      <Item value="Left" priority="0" />
+      <Item value="Right" priority="0" />
+      <Item value="Bottom" priority="0" />
+      <Item value="Top" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Orientation">
+      <Item value="Horizontal" priority="0" />
+      <Item value="Vertical" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualBasic.MsgBoxResult">
+      <Item value="Yes" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:PropSorter.cs" caret="0" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:propParticleKeyframe.cs" caret="2273" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:PropertyOrderPair.cs" caret="696" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:PropertyOrderAttribute.cs" caret="376" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:propEmitterMinimesh.cs" caret="717" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:propEmitterKeyframe.cs" caret="47" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:propEmitterBillboard.cs" caret="299" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:propEmitter.cs" caret="10493" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:propAttractor.cs" caret="63" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modUtil.cs" caret="704" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modOptions.cs" caret="393" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modLocalize.cs" caret="47" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modAttractorUtils.cs" caret="2942" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:cColor.cs" caret="2421" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:cVector.cs" caret="308" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:cQuaternionConverter.cs" caret="0" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:cQuaternion.cs" caret="474" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:cVectorConverter.cs" caret="2777" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:cColorConverter.cs" caret="2935" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmAbout.cs" caret="2411" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmOptions.cs" caret="7058" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmEmitter.cs" caret="3084" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmHeader.cs" caret="1998" scrollPosition="0|0" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmMain.cs" caret="2094" scrollPosition="0|38" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMenu.cs" caret="1009" scrollPosition="0|5" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMain.cs" caret="5395" scrollPosition="0|114" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleXML.cs" caret="6671" scrollPosition="0|213" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modemitterUtils.cs" caret="14120" scrollPosition="0|316" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleKeyframeUtils.cs" caret="3076" scrollPosition="0|68" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modEmitterKeyframeUtils.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmHeader.cs" caret="2417" scrollPosition="0|51" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmHeader.cs" caret="2514" scrollPosition="0|51" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmHeader.cs" caret="950" scrollPosition="0|36" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmHeader.cs" caret="611" scrollPosition="0|6" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmHeader.cs" caret="1347" scrollPosition="0|31" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmHeader.cs" caret="1998" scrollPosition="0|48" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modemitterUtils.cs" caret="8540" scrollPosition="0|199" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modemitterUtils.cs" caret="13108" scrollPosition="0|292" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMain.cs" caret="11559" scrollPosition="0|260" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmMain.cs" caret="1794" scrollPosition="0|31" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMain.cs" caret="10457" scrollPosition="0|223" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMain.cs" caret="10299" scrollPosition="0|223" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMain.cs" caret="2038" scrollPosition="0|51" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:frmMain.cs" caret="2094" scrollPosition="0|38" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMenu.cs" caret="1009" scrollPosition="0|5" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleXML.cs" caret="4753" scrollPosition="0|128" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleKeyframeUtils.cs" caret="1906" scrollPosition="0|30" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modMain.cs" caret="5395" scrollPosition="0|114" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleXML.cs" caret="6670" scrollPosition="0|213" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modemitterUtils.cs" caret="6526" scrollPosition="0|153" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modemitterUtils.cs" caret="14120" scrollPosition="0|316" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleKeyframeUtils.cs" caret="1320" scrollPosition="0|14" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleKeyframeUtils.cs" caret="704" scrollPosition="0|14" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleKeyframeUtils.cs" caret="3258" scrollPosition="0|68" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modParticleKeyframeUtils.cs" caret="3076" scrollPosition="0|68" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modEmitterKeyframeUtils.cs" caret="700" scrollPosition="0|11" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modEmitterKeyframeUtils.cs" caret="1298" scrollPosition="0|11" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modEmitterKeyframeUtils.cs" caret="1883" scrollPosition="0|23" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modEmitterKeyframeUtils.cs" caret="3045" scrollPosition="0|71" />
+      <File id="B8272DF8-39EF-4900-BF73-18D471E8D82B/f:modEmitterKeyframeUtils.cs" caret="3227" scrollPosition="0|71" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

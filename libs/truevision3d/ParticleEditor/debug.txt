@@ -1,0 +1,26 @@
+11-03-2009 10:24:10 | Continuing debug file on debug.txt
+11-03-2009 10:27:22 | GLOBAL CLASS : GetMiniMesh : Minimesh 'minimesh0' not found in the minimesh collection.
+11-03-2009 10:27:22 | GLOBAL CLASS : GetMiniMesh : Minimesh 'minimesh0' not found in the minimesh collection.
+11-03-2009 10:27:22 | GLOBAL CLASS : GetMiniMesh : Minimesh 'minimesh0' not found in the minimesh collection.
+11-03-2009 10:27:22 | STREAM MANAGER : Couldn't open file 'particles\torus.TVM'
+11-03-2009 10:27:22 | MESH MANAGER : TVM Loading : 'particles\torus.TVM' file not found
+11-03-2009 10:27:22 | Create: minimesh0
+11-03-2009 10:27:22 | MINI MESH MANAGER : CreateFromMesh : Couldn't create a minimesh from the mesh with index '1'. Please make sure the mesh is loaded and not empty. Aborting...
+11-03-2009 10:27:22 | STREAM MANAGER : Couldn't open file 'particles\sphere.TVM'
+11-03-2009 10:27:22 | MESH MANAGER : TVM Loading : 'particles\sphere.TVM' file not found
+11-03-2009 10:27:22 | Create: minimesh1
+11-03-2009 10:27:22 | MINI MESH MANAGER : CreateFromMesh : Couldn't create a minimesh from the mesh with index '2'. Please make sure the mesh is loaded and not empty. Aborting...
+11-03-2009 10:27:22 | STREAM MANAGER : Couldn't open file 'particles\cylinder.TVM'
+11-03-2009 10:27:22 | MESH MANAGER : TVM Loading : 'particles\cylinder.TVM' file not found
+11-03-2009 10:27:22 | Create: minimesh2
+11-03-2009 10:27:22 | MINI MESH MANAGER : CreateFromMesh : Couldn't create a minimesh from the mesh with index '3'. Please make sure the mesh is loaded and not empty. Aborting...
+11-03-2009 10:28:00 | Destroy: minimesh0
+11-03-2009 10:28:00 | Destroy: minimesh1
+11-03-2009 10:28:00 | Destroy: minimesh2
+11-03-2009 10:28:00 | TEXTURE MANAGER : Loading of 'F:\dev\3d\Truevision 3d 6.5 beta\current\ParticleEditor\particles\star1.dds' successful 'star1.dds' 
+11-03-2009 10:29:02 | TEXTURE MANAGER : Loading of 'F:\dev\3d\Truevision 3d 6.5 beta\current\ParticleEditor\particles\plume4.dds' successful 'plume4.dds' 
+11-03-2009 10:29:02 | PARTICLE SYSTEM : SetParticleKeyFrames : Wrong key frames (keys are not strictly increasing
+11-03-2009 10:29:02 | TEXTURE MANAGER : Loading of 'F:\dev\3d\Truevision 3d 6.5 beta\current\ParticleEditor\particles\nebula.dds' successful 'nebula.dds' 
+11-03-2009 10:29:07 | TEXTURE MANAGER : Loading of 'F:\dev\3d\Truevision 3d 6.5 beta\current\ParticleEditor\particles\squiggles.dds' successful 'squiggles.dds' 
+11-03-2009 10:29:30 | START UNLOAD
+11-03-2009 10:29:30 | RESSOURCE MANAGER : Engine successfully unloaded

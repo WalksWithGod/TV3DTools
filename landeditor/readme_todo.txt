@@ -1,0 +1,3 @@
+This was an old 2006 sample made by the TV3D user who went by the nickname "newborn" and it was originally built against an old version of TV3D.  I've updated it to a VS.NET 2008 project using the latest MTV3D65.DLL however you may find that there are still some compatibility issues and bugs now that a version of the DLL that is several years newer is being used.  Someone will need to fix these bugs...
+
+-Hypnotron

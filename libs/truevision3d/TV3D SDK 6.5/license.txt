@@ -1,0 +1,44 @@
+Beta Software License Agreement
+
+Preamble
+IMPORTANT! THIS IS THE LICENSE AGREEMENT THAT YOU ARE REQUIRED TO ACCEPT BEFORE INSTALLING AND USING TRUEVISION3D, LLC BETA SOFTWARE. CAREFULLY READ ALL THE TERMS AND CONDITIONS OF THIS BETA SOFTWARE LICENSE AGREEMENT BEFORE PROCEEDING WITH THE DOWNLOADING AND/OR INSTALLATION OF THIS BETA SOFTWARE PRODUCT. YOU ARE NOT PERMITTED TO DOWNLOAD AND/OR INSTALL THIS BETA SOFTWARE PRODUCT UNTIL YOU HAVE AGREED TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS BETA SOFTWARE LICENSE AGREEMENT. BY ACCEPTING THIS LICENSE AGREEMENT YOU ALSO REPRESENT AND WARRANT THAT YOU ARE DULY AUTHORIZED TO ACCEPT THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT ON BEHALF OF YOUR EMPLOYER.
+
+THIS AGREEMENT IS ENTERED INTO BY TRUEVISION3D, LLC ("TV3D") AND YOU AS END USER OF THE BETA SOFTWARE PRODUCT 
+("END USER"). 
+
+1. The Beta Software Product
+The subject of this license is the TV3D Beta software product in which this license is embedded and any related updates, provided to END USER, including computer software and, where applicable, associated media, printed materials and online or electronic documentation ("Beta Software Product").
+
+2. Beta License Grant 
+END USER is hereby granted, upon the following terms and conditions including payment of any applicable license fee, a non-exclusive, non-transferable Beta license, for its internal, end-use purposes only (excluding the commercialization of information technology products), in the ordinary course of END USER'S business to  install and use the Beta Software Product on a single computer only (and not on a network or a server).
+END USER agrees to provide timely feedback, which may include bug reports, conferences with TV3D representatives and/or written evaluations, to TV3D in relation to the Beta Software Product and that TV3D will have no confidentiality obligations with respect to such feedback. END USER agrees that TV3D and its designees will be free to copy, modify, create derivative works, publicly display, disclose, distribute, license and sublicense through multiple tiers of distribution and licensees, incorporate and otherwise use the feedback, including derivative works thereto, for any and all commercial and non-commercial purposes.
+
+3. Beta License Restrictions
+THE BETA SOFTWARE PRODUCT WHICH IS THE SUBJECT OF THIS AGREEMENT IS LICENSED TO END USER, NOT SOLD. 
+END USER MAY NOT USE OR COPY THE BETA SOFTWARE PRODUCT, IN WHOLE OR IN PART, EXCEPT AS EXPRESSLY PROVIDED FOR IN THIS LICENSE. END USER MAY NOT MODIFY, TRANSLATE, REVERSE ENGINEER, DECOMPILE, DISASSEMBLE OR CREATE DERIVATIVE WORKS OF THE BETA SOFTWARE PRODUCT OR OTHERWISE ATTEMPT TO (A) DEFEAT, AVOID, BY-PASS, REMOVE, DEACTIVATE OR OTHERWISE CIRCUMVENT ANY SOFTWARE PROTECTION MECHANISMS IN THE BETA SOFTWARE PRODUCT INCLUDING, WITHOUT LIMITATION, ANY SUCH MECHANISM USED TO RESTRICT OR CONTROL THE FUNCTIONALITY OF THE BETA SOFTWARE PRODUCT OR (B) DERIVE THE SOURCE CODE OR THE UNDERLYING IDEAS, ALGORITHMS, STRUCTURE OR ORGANIZATION FORM OF THE BETA SOFTWARE PRODUCT. END USER WILL AT ALL TIMES, INCLUDING DURING AND AFTER THE TERM OF THIS LICENSE, KEEP THE BETA SOFTWARE PRODUCT, ALL INFORMATION RELATING TO END USER'S USE OF THE BETA SOFTWARE PRODUCT INCLUDING ANY BENCHMARKS, PERFORMANCE RESULTS AND OTHER INFORMATION, CONFIDENTIAL UNLESS OTHERWISE EXPRESSLY AGREED IN WRITING BY TV3D.
+The Beta Software Product is provided with Restricted Rights. Use, duplication or disclosure by the U.S. Government is subject to restrictions set forth in subparagraph (c)(1) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of Commercial Computer Software - Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Truevision3D, LLC, 3446 Balmars, Jackson, Michigan 49201.
+
+4. Ownership
+The Beta Software Product is protected by copyright and is proprietary and confidential to TV3D. All right, title and interest in and to the Beta Software Product (including associated intellectual property rights) are and will remain vested in TV3D or TV3D's affiliated companies or licensors. These rights are protected by national and other laws and international treaties. END USER acknowledges that no rights, license or interest to any TV3D trademarks are granted hereunder. 
+
+5. Term of Beta License
+This Beta license shall be in effect from the time END USER installs the Beta Software Product, thereby accepting the terms and conditions contained herein, or otherwise expressly accepts the terms and conditions of this Beta license, and shall remain in effect until the Beta Software Product reaches general availability. TV3D reserves the right to terminate this Agreement at any time upon written notice to END USER. Termination of this Agreement constitutes termination of the Beta license granted herein. This Agreement will otherwise terminate upon the conditions set forth in this Agreement or if END USER fails to comply with any term or condition of this Agreement including failure to pay any applicable license fee. END USER agrees upon termination of this Agreement for any reason to immediately un-install the Beta Software Product and destroy all copies of the Beta Software Product in its possession and/or under its control. 
+
+6. Limitation of Liability
+THE BETA SOFTWARE PRODUCT IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED. WITHOUT LIMITATION, TO THE FULLEST EXTENT ALLOWABLE BY LAW, END USER ASSUMES THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE BETA SOFTWARE PRODUCT. THIS EXCLUSION OF ALL WARRANTIES OR CONDITIONS EXTENDS WITHOUT LIMITATION TO IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABLE QUALITY, NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY AND FITNESS FOR A PARTICULAR PURPOSE AND THOSE ARISING BY STATUTE OR OTHERWISE IN LAW OR FROM A COURSE OF DEALING OR USAGE OF TRADE. THE BETA SOFTWARE PRODUCT CONTAINS PRE-RELEASE CODE, MAY NOT BE FULLY FUNCTIONAL AND MAY BE SUBSTANTIALLY MODIFIED IN FURTHER DEVELOPMENT. TV3D DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE BETA SOFTWARE PRODUCT WILL MEET END USER'S REQUIREMENTS, OR THAT THE OPERATION OF THE BETA SOFTWARE PRODUCT WILL BE ERROR FREE OR UNINTERRUPTED. TV3D CAN PROVIDE NO ASSURANCE THAT IT WILL EVER PRODUCE OR MAKE AVAILABLE A GENERAL RELEASE VERSION.
+IN NO EVENT SHALL TV3D BE LIABLE UNDER ANY THEORY OF CONTRACT, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY DAMAGES OF ANY KIND, INCLUDING WITHOUT LIMITATION, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES, DAMAGES FOR LOST PROFITS, LOST BUSINESS REVENUE, OTHER ECONOMIC LOSS OR ANY LOSS OF RECORDED DATA, EVEN IF TV3D HAS BEEN ADVISED OF THE POSSIBILITY THEREOF, ARISING OUT OF THE USE OF OR INABILITY TO USE THE BETA SOFTWARE PRODUCT. 
+
+7. General Provisions
+The limitations of liability and ownership rights of TV3D contained herein and END USER's obligations following termination of this Agreement shall survive the termination of this Agreement for any reason.
+
+END USER may not sublicense, assign, share, pledge, rent or transfer any of its rights under this Agreement in relation to the Beta Software Product or any portion thereof including documentation.
+
+No amendments or modifications may be made to this Agreement except in writing signed by both parties.
+
+If one or more provisions of this Agreement are found to be invalid or unenforceable, this Agreement shall not be rendered inoperative but the remaining provisions shall continue in full force and effect.
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter of this Agreement and merges all prior communications except that a "hard-copy" form of license agreement relating to the Beta Software. 
+
+Product previously agreed to in writing by TV3D and END USER shall supercede and govern in the event of any conflicting provisions.
+
+This Agreement shall be governed by the laws of the State of Michigan.

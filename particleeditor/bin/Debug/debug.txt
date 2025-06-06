@@ -1,0 +1,11 @@
+06-23-2009 23:40:26 | Continuing debug file on debug.txt
+06-23-2009 23:40:50 | STREAM MANAGER : Couldn't open file 'C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\star1.dds'
+06-23-2009 23:40:50 | TEXTURE MANAGER : Couldn't find the texture file C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\star1.dds.
+06-23-2009 23:41:03 | STREAM MANAGER : Couldn't open file 'C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\ring.dds'
+06-23-2009 23:41:03 | TEXTURE MANAGER : Couldn't find the texture file C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\ring.dds.
+06-23-2009 23:41:09 | STREAM MANAGER : Couldn't open file 'C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\squiggles.dds'
+06-23-2009 23:41:09 | TEXTURE MANAGER : Couldn't find the texture file C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\squiggles.dds.
+06-23-2009 23:41:09 | STREAM MANAGER : Couldn't open file 'C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\squiggles.dds'
+06-23-2009 23:41:09 | TEXTURE MANAGER : Couldn't find the texture file C:\Documents and Settings\Hypnotron\My Documents\dev\c#\tvtools\particleeditor\bin\Debug\particles\squiggles.dds.
+06-23-2009 23:41:12 | START UNLOAD
+06-23-2009 23:41:12 | RESOURCE MANAGER : Engine successfully unloaded

@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B1911026-7CFD-4659-899D-F622E9DB2A62}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>LandED</RootNamespace>
+    <AssemblyName>LandED</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <OptionStrict>On</OptionStrict>
+    <OptionCompare>Binary</OptionCompare>
+    <ApplicationIcon>L-32.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LandED.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\System\</OutputPath>
+    <DocumentationFile>LandED.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MTV3D65, Version=6.5.3733.40583, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\c#\KeystoneGameBlocks\Libs\TV3D65\MTV3D65.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\cAtmosphere.vb" />
+    <Compile Include="Class\cBrush.vb" />
+    <Compile Include="Class\cCamera.vb" />
+    <Compile Include="Class\cEngine.vb" />
+    <Compile Include="Class\cFiles.vb" />
+    <Compile Include="Class\cGlobals.vb" />
+    <Compile Include="Class\cGUI.vb" />
+    <Compile Include="Class\cInput.vb" />
+    <Compile Include="Class\cLandscape.vb" />
+    <Compile Include="Class\cLayer.vb" />
+    <Compile Include="Class\cLights.vb" />
+    <Compile Include="Class\cMaterials.vb" />
+    <Compile Include="Class\cMath.vb" />
+    <Compile Include="Class\cLandManager.vb" />
+    <Compile Include="Class\cScene.vb" />
+    <Compile Include="Class\cTexture.vb" />
+    <Compile Include="Class\cWater.vb" />
+    <Compile Include="Class\cWaterManager.vb" />
+    <Compile Include="Form\fAlpha.Designer.vb">
+      <DependentUpon>fAlpha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fAlpha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fPreview.Designer.vb">
+      <DependentUpon>fPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fProgress.Designer.vb">
+      <DependentUpon>fProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fRender.Designer.vb">
+      <DependentUpon>fRender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fRender.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fGenerate.Designer.vb">
+      <DependentUpon>fGenerate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fGenerate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fLights.Designer.vb">
+      <DependentUpon>fLights.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fLights.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fMaterials.Designer.vb">
+      <DependentUpon>fMaterials.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fMaterials.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fMenu.Designer.vb">
+      <DependentUpon>fMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fLandscapes.Designer.vb">
+      <DependentUpon>fLandscapes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fLandscapes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fSmudge.Designer.vb">
+      <DependentUpon>fSmudge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fSmudge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fSplatter.Designer.vb">
+      <DependentUpon>fSplatter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fSplatter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fSplattingLayer.Designer.vb">
+      <DependentUpon>fSplattingLayer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fSplattingLayer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fWater.Designer.vb">
+      <DependentUpon>fWater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fWater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module\mCore.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\fAlpha.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fAlpha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fPreview.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fProgress.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fRender.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fRender.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fGenerate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fGenerate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fLights.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fLights.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fMaterials.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fMaterials.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fMenu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fLandscapes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fLandscapes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fSmudge.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSmudge.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fSplatter.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSplatter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fSplattingLayer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fSplattingLayer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fWater.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>fWater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="L-32.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
